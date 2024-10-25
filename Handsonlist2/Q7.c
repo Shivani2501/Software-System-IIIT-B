@@ -1,3 +1,10 @@
+/*
+============================================================================
+Name : 7.c
+Author : Shivani Shukla
+Description : Write a simple program to print the created thread ids.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
