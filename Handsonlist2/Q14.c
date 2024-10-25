@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 14.c
+Author : Shivani Shukla
+Description :   Write a simple program to send some data from parent to the child process.
+Date: 21th Sep, 2024.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
