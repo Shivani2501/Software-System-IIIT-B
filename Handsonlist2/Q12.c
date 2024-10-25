@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 12.c
+Author : Shivani Shukla
+Description :  Write a program to ignore a SIGINT signal then reset the default action of the SIGINT signal -
+use sigaction system call.
+Date: 20th Sep, 2024.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
@@ -23,4 +32,8 @@ exit(EXIT_SUCCESS);
 	return 0;
 }
 /*output
+Child Process 1234 is running...
+Parent Process 1233 is going to terminate...
+Child Process 1234 sending SIGKILL to parent process 1233...
+Child Process 1234 has sent SIGKILL to parent process 1233*/
 
