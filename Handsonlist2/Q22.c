@@ -1,3 +1,10 @@
+/*
+Name : 22.c
+Author : Shivani Shukla
+Description : Write a program to wait for data to be written into FIFO within 10 seconds, use select
+system call with FIFO.
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
