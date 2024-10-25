@@ -1,3 +1,8 @@
+/*Name : 30d.c
+Author : Shivani Shukla
+Description :  remove the shared memory
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/ipc.h>
