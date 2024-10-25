@@ -1,3 +1,9 @@
+/*Name : 34aclient.c
+Author : Shivani Shukla
+Description : Write a program to create a concurrent server.
+a. use fork
+Date: 21th Sep, 2024.
+    */
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/ip.h>
