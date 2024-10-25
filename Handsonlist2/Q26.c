@@ -1,3 +1,10 @@
+/*Name : 26.c
+Author : Shivani Shukla
+Description :   Write a program to send messages to the message queue. Check $ipcs -q
+
+
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
