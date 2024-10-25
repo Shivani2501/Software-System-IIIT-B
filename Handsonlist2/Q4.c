@@ -32,6 +32,7 @@ int main (){
 	return 0;
 }
 /* Output
-Write a program to measure how much time is taken to execute 100 getppid ( )
-system call. Use time stamp counter.
+Total cycles taken for 100 getppid() calls: 109043
+Average cycles per getppid() call: 1090
+
 */
