@@ -1,3 +1,9 @@
+/*
+Name : 21.c
+Author : Shivani Shukla
+Description : Write two programs so that both can communicate by FIFO -Use two way communications.
+Date: 21th Sep, 2024.
+    */
 #include <sys/types.h> 
 #include <sys/stat.h>
 #include <fcntl.h>
