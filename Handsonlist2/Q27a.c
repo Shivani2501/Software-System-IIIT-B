@@ -1,3 +1,10 @@
+/*Name : 27a.c
+Author : Shivani Shukla
+Description :  Write a program to receive messages from the message queue.
+a. with 0 as a flag
+
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
