@@ -1,3 +1,8 @@
+/*Name : 30b.c
+Author : Shivani Shukla
+Description : attach with O_RDONLY and check whether you are able to overwrite.
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/ipc.h>
