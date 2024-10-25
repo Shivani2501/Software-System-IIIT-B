@@ -1,3 +1,8 @@
+/*Name : 29.c
+Author : Shivani Shukla
+Description :  Write a program to remove the message queue.
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/ipc.h>
 #include <sys/msg.h>
