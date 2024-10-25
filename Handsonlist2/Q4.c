@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 4.c
+Author : Shivani Shukla
+Description : Write a program to measure how much time is taken to execute 100 getppid ( )
+system call. Use time stamp counter.
+============================================================================
+*/
 #include<stdio.h>
 #include<unistd.h>
 unsigned long long rdtsc_start(){
