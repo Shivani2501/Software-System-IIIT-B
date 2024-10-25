@@ -1,4 +1,4 @@
-/*Name : 31.c
+/*Name : 30a.c
 Author : Shivani Shukla
 Description : Write a program to create a shared memory.
 a. write some data to the shared memory
