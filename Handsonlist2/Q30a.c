@@ -1,3 +1,9 @@
+/*Name : 31.c
+Author : Shivani Shukla
+Description : Write a program to create a shared memory.
+a. write some data to the shared memory
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/ipc.h>
