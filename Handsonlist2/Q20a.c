@@ -1,3 +1,7 @@
+/*Name : 20.c
+Author : Shivani Shukla
+Description : Write two programs so that both can communicate by FIFO -Use one way communication.
+Date: 21th Sep, 2024.*/
 #include <stdio.h>
 #include <fcntl.h>
 #include <unistd.h>
