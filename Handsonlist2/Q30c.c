@@ -1,3 +1,8 @@
+/*Name : 30c.c
+Author : Shivani Shukla
+Description :  detach the shared memory
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/ipc.h>
