@@ -1,9 +1,11 @@
-Write a program to receive messages from the message queue.
+
+/*Name : 27a.c
+Author : Shivani Shukla
+Description :  b. with IPC_NOWAIT as a flag
 a. with 0 as a flag
-b. with IPC_NOWAIT as a flag
-#include <stdio.h>
-#include <sys/ipc.h>
-#include <sys/msg.h>
+
+Date: 21th Sep, 2024.
+    */
 
 typedef struct mesg_buffer
 {
