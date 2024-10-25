@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 6.c
+Author : Shivani Shukla
+Description : Write a simple program to create three threads.
+system call. Use time stamp counter.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
