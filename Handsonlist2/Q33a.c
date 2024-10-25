@@ -1,3 +1,8 @@
+/*Name : 33a.c
+Author : Shivani Shukla
+Description : Write a program to communicate between two machines using socket
+Date: 21th Sep, 2024.
+    */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
