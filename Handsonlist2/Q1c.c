@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name : 1c.c
+Author : Shivani Shukla
+Description : Write a separate program (for each time domain) to set a interval timer in 10sec and
+10micro second
+c. ITIMER_PRO
+Date: 21th Sep, 2024.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<signal.h>
