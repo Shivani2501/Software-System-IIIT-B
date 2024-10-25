@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name : 3.c
+Author : Shivani Shukla
+Description : Write a program to print the system resource limits. Use setrlimit system call
+Date: 21th Sep, 2024.
+============================================================================
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/resource.h>
