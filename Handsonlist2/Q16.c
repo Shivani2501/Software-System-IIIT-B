@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name : 16.c
+Author : Shivani Shukla
+Description : Write a program to send and receive data from parent to child vice versa. Use two way
+communication.
+Date: 21th Sep, 2024.
+============================================================================
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
